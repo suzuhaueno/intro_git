@@ -4,3 +4,4 @@ GitHubを学習します。
 ・git commit
 ・git rm
 ・git status
+・git diff
